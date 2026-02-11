@@ -14,7 +14,6 @@ status-website:
   introMessage: Monitoring LabsZone infrastructure uptime
 
   cname: status.labszone.space
-  baseUrl: /upptime-bot
 
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
 
