@@ -19,6 +19,6 @@ status-website:
 
   navbar:
     - title: Status
-      href: /
+      href: https://status.labszone.space
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
