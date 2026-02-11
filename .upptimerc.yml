@@ -19,6 +19,7 @@ status-website:
 
   logoUrl: https://labszone.space/assets/labszone-icon.svg
   customCss: /custom.css
+  customJs: /custom.js
 
   navbar:
     - title: Status
