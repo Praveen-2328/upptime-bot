@@ -9,9 +9,11 @@ sites:
     url: https://n8n.labszone.space
 
 status-website:
-  name: Praveen Status
-  introTitle: "🚀 Service Status"
-  introMessage: Monitoring my infrastructure uptime
+  name: LabsZone Status
+  introTitle: "🚀 LabsZone Service Status"
+  introMessage: Monitoring LabsZone infrastructure uptime
+
+  cname: status.labszone.space
   baseUrl: /upptime-bot
 
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
