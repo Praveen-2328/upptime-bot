@@ -6,7 +6,7 @@ sites:
     url: https://labszone.space
 
   - name: LabsZone n8n
-    url: https://n8n.labszone.space
+    url: https://n8n.labszone.space/healthz
 
 status-website:
   name: LabsZone Status
