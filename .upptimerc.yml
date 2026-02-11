@@ -12,9 +12,7 @@ status-website:
   name: LabsZone Status
   introTitle: "⚡ LabsZone System Status"
   introMessage: >
-    Real-time uptime and performance monitoring
-    for LabsZone infrastructure & services.
-    Powered by LabsZone • Transparent uptime • Real-time monitoring
+    Real-time uptime and performance monitoring for LabsZone infrastructure & services.
 
   cname: status.labszone.space
   theme: dark
