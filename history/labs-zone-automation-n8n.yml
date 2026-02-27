@@ -1,7 +1,7 @@
 url: https://n8n.labszone.space/healthz
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-02-27T10:24:29.104Z
+status: up
+code: 200
+responseTime: 24622
+lastUpdated: 2026-02-27T13:20:34.203Z
 startTime: 2026-02-11T03:21:08.846Z
 generator: Upptime <https://github.com/upptime/upptime>
