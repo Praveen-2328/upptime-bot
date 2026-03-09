@@ -22,12 +22,12 @@
     "url": "https://n8n.labszone.space/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/n8n.labszone.space.ico",
     "slug": "labs-zone-automation-n8n",
-    "status": "up",
-    "uptime": "59.20%",
-    "uptimeDay": "28.45%",
+    "status": "down",
+    "uptime": "59.29%",
+    "uptimeDay": "30.14%",
     "uptimeWeek": "26.63%",
-    "uptimeMonth": "59.20%",
-    "uptimeYear": "59.20%",
+    "uptimeMonth": "59.29%",
+    "uptimeYear": "59.29%",
     "time": 14693,
     "timeDay": 11362,
     "timeWeek": 15815,
@@ -49,7 +49,7 @@
       "2026-02-25": 1066,
       "2026-02-24": 1207,
       "2026-02-23": 1287,
-      "2026-02-22": 408
+      "2026-02-22": 398
     }
   }
 ]
