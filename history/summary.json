@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/n8n.labszone.space.ico",
     "slug": "labs-zone-automation-n8n",
     "status": "down",
-    "uptime": "63.99%",
-    "uptimeDay": "21.72%",
+    "uptime": "63.88%",
+    "uptimeDay": "21.44%",
     "uptimeWeek": "20.38%",
-    "uptimeMonth": "61.10%",
-    "uptimeYear": "63.99%",
+    "uptimeMonth": "60.88%",
+    "uptimeYear": "63.88%",
     "time": 14514,
     "timeDay": 7845,
     "timeWeek": 13570,
     "timeMonth": 14417,
     "timeYear": 14514,
     "dailyMinutesDown": {
-      "2026-03-15": 1127,
+      "2026-03-16": 115,
+      "2026-03-15": 1128,
       "2026-03-14": 1161,
       "2026-03-13": 1180,
       "2026-03-12": 1091,
@@ -50,7 +51,7 @@
       "2026-03-02": 1102,
       "2026-03-01": 848,
       "2026-02-28": 714,
-      "2026-02-27": 33
+      "2026-02-27": 14
     }
   }
 ]
