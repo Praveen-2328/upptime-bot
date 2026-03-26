@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 156,
-    "timeWeek": 260,
-    "timeMonth": 177,
-    "timeYear": 178,
+    "time": 175,
+    "timeDay": 58,
+    "timeWeek": 232,
+    "timeMonth": 173,
+    "timeYear": 175,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/n8n.labszone.space.ico",
     "slug": "labs-zone-automation-n8n",
     "status": "down",
-    "uptime": "63.16%",
-    "uptimeDay": "36.08%",
-    "uptimeWeek": "21.81%",
-    "uptimeMonth": "48.14%",
-    "uptimeYear": "63.16%",
+    "uptime": "63.37%",
+    "uptimeDay": "24.84%",
+    "uptimeWeek": "21.61%",
+    "uptimeMonth": "48.30%",
+    "uptimeYear": "63.37%",
     "time": 15307,
-    "timeDay": 21619,
-    "timeWeek": 18416,
-    "timeMonth": 15520,
+    "timeDay": 26847,
+    "timeWeek": 18915,
+    "timeMonth": 15542,
     "timeYear": 15307,
     "dailyMinutesDown": {
-      "2026-03-25": 912,
+      "2026-03-26": 112,
+      "2026-03-25": 970,
       "2026-03-24": 1032,
       "2026-03-23": 1197,
       "2026-03-22": 1333,
@@ -53,7 +54,7 @@
       "2026-03-09": 1095,
       "2026-03-08": 1031,
       "2026-03-07": 1057,
-      "2026-03-06": 1144
+      "2026-03-06": 905
     }
   }
 ]
